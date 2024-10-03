@@ -16,7 +16,7 @@ const Section3 = () => {
             <div className='grid lg:grid-cols-2 grid-col-1 gap-8 p-2  justify-center'>
                <div className="md:pt-[15px] pt-[10px] bg-transparent md:w-[460px]  w-full text-left md:h-[200px] h-fit m-auto  md:p-[20px] p-[12px] md:px-[15px] px-[10px] rounded-[16px] border-[1px]">
                    <h1 className='font-bold md:text-[30px] text-[20px] text-white md:mb-[15px] mb-[10px]'>Volunteers</h1>
-                   <p className='text-neutral-300'>Are you looking for a meaningful way to give back? Whether you're interested in local opportunities or global causes, VolunteerVerse connects you with organizations that need your skills and passion. </p>
+                   <p className='text-neutral-300'>Are you looking for a meaningful way to give back? Whether you&rsquo;re interested in local opportunities or global causes, VolunteerVerse connects you with organizations that need your skills and passion. </p>
                </div>
 
                <div className="md:pt-[15px] pt-[10px] bg-transparent md:w-[460px]  w-full text-left md:h-[200px] h-fit m-auto  md:p-[20px] p-[12px] md:px-[15px] px-[10px] rounded-[16px] border-[1px]">
@@ -31,7 +31,7 @@ const Section3 = () => {
          <section className='md:px-[4vw] px-[3vw] bg-black pt-[30px] pb-[40px] mt-[-40px]'>
              <div className="bg-black md:pt-[15px] pt-[10px] bg-transparent md:w-[460px] w-full  text-left md:h-[200px] h-fit m-auto  md:p-[20px] p-[12px] md:px-[15px] px-[10px] rounded-[16px] border-[1px]">
                <h1 className='font-bold md:text-[30px] text-[20px] text-white md:mb-[15px] mb-[10px]'>Social Impact Organisations</h1>
-               <p className='text-neutral-300'>Organizations driving positive change can benefit from the transparency and accountability of blockchain. You’ll be able to find volunteers committed to your cause and track their contributions with confidence.</p>
+               <p className='text-neutral-300'>Organizations driving positive change can benefit from the transparency and accountability of blockchain. You&rsquo;ll be able to find volunteers committed to your cause and track their contributions with confidence.</p>
             </div>
          </section>
        

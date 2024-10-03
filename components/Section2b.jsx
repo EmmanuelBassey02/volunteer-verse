@@ -4,7 +4,7 @@ import Image from 'next/image'
 function Section2b() {
   return (
     <>
-        <section className='h-fit bg-black py-[60px] md:px-[4vw] px-[3vw] '>
+        <section className='h-fit bg-black pt-[60px] pb-1 md:px-[4vw] px-[3vw]'>
            <div className='grid sm:grid-cols-2 grid-cols-1 gap-4 justify-center items-center'>
               <Image 
                   src="/globe.png"

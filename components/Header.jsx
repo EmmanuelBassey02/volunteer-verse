@@ -20,7 +20,7 @@ const Header = () => {
       </div>
 
       <Link href="/">
-        <button className="bg-gradient-to-br from-[#FF3BFF] to-[#5C24FF] text-white font-bold rounded-[30px] px-4 h-[45px] text-base py-2">
+        <button className="bg-gradient-to-br from-[#FF3BFF] to-[#5C24FF] text-white font-bold rounded-[30px] px-4 md:h-[45px] h-[38px] md:text-base text-[14px] py-2">
           Get started
         </button>
       </Link>

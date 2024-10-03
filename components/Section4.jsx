@@ -19,9 +19,9 @@ const Section4 = () => {
              
               <div className=''>
                 <h1 className='text-white font-bold  md:text-[38px] text-[24px] md:mb-[40px] mb-[18px]'>Your Access Point to Solana</h1>
-                <p className='text-[#f4cef9] font-bold  md:text-[22px] text-[18px]'>Solflare provides a secure way to explore Solana. You can buy, store, and swap tokens and NFTs, as well as access Solana DeFi on both web and mobile platforms.</p><br />
+                <p className='text-[#f4cef9] md:font-bold font-[500]  md:text-[22px] text-[18px]'>Solflare provides a secure way to explore Solana. You can buy, store, and swap tokens and NFTs, as well as access Solana DeFi on both web and mobile platforms.</p><br />
                  <Link href="https://solflare.com/onboard">
-                    <button className=' bg-gradient-to-r from-[#831c83] to-[#250489] font-bold  h-[45px] mb-[20px] rounded-[32px] hover:border-[#f956f9] px-[10px] text-[14px] text-white border-[1px]  sm:text-[16px] md:h-[60px] w-fit md:rounded-[42px] md:px-4 md:text-[20px]'>
+                    <button className=' bg-gradient-to-r from-[#831c83] to-[#250489] font-bold  h-[45px] mb-[20px] rounded-[32px] hover:border-[#f956f9] px-[16px] text-[14px] text-white border-[1px]  sm:text-[16px] md:h-[60px] w-fit md:rounded-[42px] md:px-6 md:text-[20px]'>
                       Solflare Wallet
                     </button>
                   </Link>

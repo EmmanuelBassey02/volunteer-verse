@@ -42,7 +42,7 @@ function Footer() {
               </p>
             </div>
 
-            <div className="w-[110px]">
+            <div className="w-[110px] border-2">
               <div className="mb-[10px] flex w-fit items-center justify-center gap-2 text-left sm:mb-[20px]">
                 <a href="https://t.me/Volunteerverse">
                 <FaTelegram className='text-neutral-300 md:text-2xl text-xl'/>

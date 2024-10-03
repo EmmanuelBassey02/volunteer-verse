@@ -8,7 +8,7 @@ const Section1 = () => {
         <section className='h-fit md:pt-[100px] pt-[40px] md:px-[4vw] px-[3vw] bg-gradient-to-tr from-[#1b0f3f]  via-black to-[#3f0216] text-center'>
            <div className="h-fit w-full p-2">
               <div className="mb-4 text-center">
-                <h1 className="mb-[18px] font-roboto w-fit m-auto p-2 text-neutral-300 md:text-[50px] text-[30px] bg-gradient-to-r from-[#952195] via-[#ECBFBF] to-[#4009e2] bg-clip-text text-transparent font-bold  md:text-4xl md:leading-[48px] lg:text-[72px]">
+                <h1 className="md:mb-[18px] mb-[8px] font-roboto w-fit m-auto p-2 text-neutral-300 md:text-[50px] text-[36px] bg-gradient-to-r from-[#952195] via-[#ECBFBF] to-[#4009e2] bg-clip-text text-transparent font-bold  md:text-4xl md:leading-[48px] lg:text-[72px]">
                   VolunteerVerse
                 </h1>
 

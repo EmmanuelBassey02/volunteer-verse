@@ -19,17 +19,7 @@ const Section1 = () => {
                 <p className="w-full text-pink-300 font-roboto md:text-[18px] text-[15px] font-[300] max-w-[690px] m-auto sm:w-full ">
                  ~ Connect, Contribute, and Create Impact with VolunteerVerse ~
                 </p>
-
-
                 <br />
-
-                {/* <Link href="/">
-                  <button className="p-[3px] h-fit bg-gradient-to-r from-[#952195] via-[#ECBFBF] to-[#4009e2] rounded-[30px]">
-                    <div className="bg-black p-4 text-white rounded-[30px] px-[10px] text-[14px] font-bold sm:text-[18px] md:h-[60px] h-[40px] md:w-[180px] w-fit">
-                      Get Started
-                    </div>
-                  </button>
-                </Link>  */}
 
                <Link href="/">
                   <button className="transition-all border-[#825df0] hover:bg-[#271461] hover:border-none border-2 h-[45px] ms-4 rounded-[32px] px-[10px] text-[14px] font-semibold text-white  sm:text-[16px] md:h-[60px] md:w-[180px] w-[110px] md:rounded-[42px] md:px-4 md:text-[20px]">

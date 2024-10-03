@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import Link from 'next/link'
 
 function Section2b() {
   return (
@@ -16,7 +15,7 @@ function Section2b() {
                />
              
               <div className=''>
-                <p className='text-[#f4cef9] font-bold font-mono md:text-[24px] text-[18px]'>“1.5 billion volunteers worldwide, yet 70% seek meaningful connections due to fragmented platforms, lack of transparency, and limited social impact measurement.”</p><br />
+                <p className='text-[#f4cef9] font-bold font-mono md:text-[24px] text-[18px]'>“With 1.5 billion volunteers and a $1.5 trillion social impact industry, VolunteerVerse addresses the need for reliable connections.”</p><br />
               </div>
            </div>
         </section>

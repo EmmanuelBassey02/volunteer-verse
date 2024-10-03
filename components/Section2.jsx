@@ -22,10 +22,6 @@ const Section2 = () => {
                    <p className='text-neutral-300 md:text-[15px] text-sm'>Visualize your personal and collective impact through real-time tracking. See how your contributions add up to make a difference globally, ensuring full transparency.</p>
                 </div>
 
-                {/* <div className="md:pt-[15px] pt-[10px] bg-transparent border-[#fff4] md:w-[320px]  w-full text-left md:h-[210px] m-auto  md:p-[20px] p-[12px] md:px-[15px] px-[10px] rounded-[16px] border-[1px]">
-                   <h1 className='font-bold md:text-[26px] text-[20px] text-white md:mb-4 mb-3 leading-[32px]'> Decentralized Governance</h1>
-                   <p className='text-neutral-300 md:text-[15px] text-sm'>VolunteerVerse is community-driven, giving the power to its users. Volunteers and organizations have a voice in decision-making through decentralized governance protocols.</p>
-                </div> */}
 
                 <div className="md:pt-[15px] pt-[10px] bg-transparent border-[#fff4] md:w-[320px]  w-full text-left md:h-[210px] m-auto  md:p-[20px] p-[12px] md:px-[15px] px-[10px] rounded-[16px] border-[1px]">
                    <h1 className='font-bold md:text-[26px] text-[20px] text-white md:mb-4 mb-3 leading-[32px]'> Authenticity Solutions</h1>

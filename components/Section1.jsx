@@ -12,7 +12,7 @@ const Section1 = () => {
                   VolunteerVerse
                 </h1>
 
-                <p className="md:mb-8 mb-4 w-full text-neutral-300 font-roboto md:text-[22px] text-[18px] font-[600] max-w-[690px] m-auto sm:w-full ">
+                <p className="md:mb-8 mb-4 w-full text-neutral-300 font-roboto md:text-[24px] text-[18px] font-[600] max-w-[690px] m-auto sm:w-full ">
                    VolunteerVerse is an online platform for volunteers and freelancers to sell their services in the online market.
                 </p>
 
